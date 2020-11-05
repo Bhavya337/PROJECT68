@@ -38,6 +38,10 @@ h1 {
     width: 100%;
 }
 
+
+.movie_text span
+{color: gold;}
+
 .contact_1 h3 {
     display: inline;
 }
@@ -67,6 +71,9 @@ input {
 }
 
 
+marquee { width: 100%;
+direction:left;
+height: 100px;}
 
 
 
