@@ -78,6 +78,13 @@ height: 100px;}
 envourment_li { height:100% ;
 width: 100%  ; }
 
+.modal-body  { text-align: center;
+}
+
+.modal-body img {display: inline-block;}
+
+#footer { height: 20px;background-color: white;}
+
 
 
 
